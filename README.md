@@ -3,6 +3,13 @@
 
 :school: Junior High School Student (2018~2022) in China who loves coding
 
+- 🔭 I’m currently working on **Open Source**
+- 🌱 I’m currently learning **Computer Science**
+- 👯 I’m looking to collaborate on **Great Open Source Projects**
+- 🤔 I’m looking for help with **My Projects**
+- 💬 Ask me about **AE/PR/C4D**, **Coding**, **Photography**, **PC Gaming**
+- 😄 Pronouns: **he/him**
+
 <details>
 <summary>:computer_mouse: For More</summary>
 
@@ -59,4 +66,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-By [Louis Aeilot](https://github.com/aeilot) - [Louis Studio](https://louis-studio.github.io/) - [@aeilot](https://twitter.com/aeilot)
+⭐️ From [Louis Aeilot](https://github.com/aeilot) - [Louis Studio](https://louis-studio.github.io/) - [@aeilot](https://twitter.com/aeilot)

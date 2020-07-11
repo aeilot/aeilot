@@ -12,7 +12,44 @@
 
 <details>
 <summary>🖱️ For More</summary>
+  
+<h4 id="-about">ℹ️ About</h4>
+<ul>
+<li>🕐 Started to code in <strong>2015</strong></li>
+<li>💭 Dreaming to change the world</li>
+<li>❤️ Loving Open Source and Games</li>
+<li>🏳️‍🌈 LGBT Supporter</li>
+<li>etc.</li>
+</ul>
+<h4 id="-tech-stack">👨‍💻 Tech Stack</h4>
+<ul>
+<li>C/C++</li>
+<li>🐧 Linux</li>
+<li>🍎 Swift/Apple Platforms</li>
+<li>☕ Java/Kotlin/Android</li>
+<li>etc.</li>
+</ul>
+<h4 id="-hobbies">😄 Hobbies</h4>
+<p>Coding is what I like best. Besides, I have lots of hobbies.</p>
+<ul>
+<li>📷 Photography</li>
+<li>🎮 Gaming and Game Development</li>
+<li>⏯️ Uploading videos to YouTube and BiliBili</li>
+<li>✍️ Literature</li>
+<li>etc.</li>
+</ul>
+<h4 id="-awards">🥇 Awards</h4>
+<p>I am planning to take part in some competitions and coding activities. Check out what I have got!</p>
+<h4 id="-how-to-reach-me">📫 How to reach me</h4>
+<ul>
+<li><a href="mailto:louis.aeilot@icloud.com">E-mail</a></li>
+<li><a href="https://github.com/aeilot">GitHub</a></li>
+<li><a href="https://stackoverflow.com/users/13011108/louis-aeilot">StackOverflow</a></li>
+<li><a href="https://t.me/aeilotd">Telegram</a></li>
+<li><a href="https://twitter.com/aeilot">Twitter</a> </li>
+</ul>
 
+<!--
 #### ℹ️ About
 - 🕐 Started to code in **2015**
 - 💭 Dreaming to change the world
@@ -45,7 +82,8 @@ I am planning to take part in some competitions and coding activities. Check out
 - [GitHub](https://github.com/aeilot)
 - [StackOverflow](https://stackoverflow.com/users/13011108/louis-aeilot)
 - [Telegram](https://t.me/aeilotd)
-- [Twitter](https://twitter.com/aeilot)
+- [Twitter](https://twitter.com/aeilot) 
+!-->
 
 </details>
 

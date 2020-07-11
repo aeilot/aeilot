@@ -1,7 +1,7 @@
-### Hi there :wave: I am Louis Aeilot!
-> [:globe_with_meridians: Home Page](https://aeilot.github.io) | [:pencil2: Blog](https://aeilot.github.io/blog) | [:office: Louis Studio](https://louis-studio.github.io)
+### Hi there 👋 I am Louis Aeilot!
+> [🌐 Home Page](https://aeilot.github.io) | [✏️ Blog](https://aeilot.github.io/blog) | [🏢 Louis Studio](https://louis-studio.github.io)
 
-:school: Junior High School Student (2018~2022) in China who loves coding
+🏫 Junior High School Student (2018~2022) in China who loves coding
 
 - 🔭 I’m currently working on **Open Source**
 - 🌱 I’m currently learning **Computer Science**
@@ -11,36 +11,36 @@
 - 😄 Pronouns: **he/him**
 
 <details>
-<summary>:computer_mouse: For More</summary>
+<summary>🖱️ For More</summary>
 
-#### :information_source: About
-- :clock1: Started to code in **2015**
-- :thought_balloon: Dreaming to change the world
-- :heart: Loving Open Source and Games
-- :rainbow_flag: LGBT Supporter
+#### ℹ️ About
+- 🕐 Started to code in **2015**
+- 💭 Dreaming to change the world
+- ❤️ Loving Open Source and Games
+- 🏳️‍🌈 LGBT Supporter
 - etc.
 
-#### :man_technologist: Tech Stack
+#### 👨‍💻 Tech Stack
 
 - C/C++
-- :penguin: Linux
-- :apple: Swift/Apple Platforms
-- :coffee: Java/Kotlin/Android
+- 🐧 Linux
+- 🍎 Swift/Apple Platforms
+- ☕ Java/Kotlin/Android
 - etc.
 
-#### :smile: Hobbies
+#### 😄 Hobbies
 Coding is what I like best. Besides, I have lots of hobbies.
 
-- :camera: Photography
-- :video_game: Gaming and Game Development
-- :play_or_pause_button: Uploading videos to YouTube and BiliBili
-- :writing_hand: Literature
+- 📷 Photography
+- 🎮 Gaming and Game Development
+- ⏯️ Uploading videos to YouTube and BiliBili
+- ✍️ Literature
 - etc.
 
-#### :1st_place_medal: Awards
+#### 🥇 Awards
 I am planning to take part in some competitions and coding activities. Check out what I have got!
 
-#### :mailbox: How to reach me
+#### 📫 How to reach me
 - [E-mail](mailto:louis.aeilot@icloud.com)
 - [GitHub](https://github.com/aeilot)
 - [StackOverflow](https://stackoverflow.com/users/13011108/louis-aeilot)

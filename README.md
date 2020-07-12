@@ -61,6 +61,8 @@ Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updat
 
 More on [My Blog](https://aeilot.github.io/blog).
 
+![README-Build](https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg)
+
 #### 💾 EOF
 
 ---

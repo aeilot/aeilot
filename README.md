@@ -48,7 +48,7 @@ I am planning to take part in some competitions and coding activities. Check out
 - [Twitter](https://twitter.com/aeilot) 
 
 #### 🎩 Dynamic Area
-Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). I have added something.
+Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). I have added something new.
 
 ##### ✏️ Blog Posts (zh-CN)
 <!-- blog starts -->

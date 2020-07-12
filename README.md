@@ -3,7 +3,7 @@
 
 🏫 Junior High School Student (2018~2022) in China who loves coding
 
-[🔽 To the bottom](#EOF) | [🎩 To Dynamic Area](#WIP)
+[🔽 To the bottom](#-eof) | [🎩 To Dynamic Area](#-dynamic-area)
 
 #### A Shorter One
 ```markdown

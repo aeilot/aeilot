@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Louis Aeilot!
-[🌐 Home Page](https://aeilot.github.io) | [✏️ Blog](https://aeilot.github.io/blog) | [🏢 Louis Studio](https://louis-studio.github.io)
+[🌐 Home Page](https://aeilot.github.io) | [✏️ Blog](https://aeilot.github.io/blog) | [🏢 Louis Studio](https://louis-studio.github.io) || [🔽 To the bottom](#-eof) | [🎩 To Dynamic Area](#-dynamic-area)
 
 🏫 Junior High School Student (2018~2022) in China who loves coding
-
-[🔽 To the bottom](#-eof) | [🎩 To Dynamic Area](#-dynamic-area)
 
 #### A Shorter One
 ```markdown
@@ -55,7 +53,7 @@ I am planning to take part in some competitions and coding activities. Check out
 
 #### 💾 EOF
 
-[🔝 To the top](#)
-
 ---
 ⭐️ From [Louis Aeilot](https://github.com/aeilot) - [Louis Studio](https://louis-studio.github.io/) - [@aeilot](https://twitter.com/aeilot)
+
+[🔝 **To the top**](#)

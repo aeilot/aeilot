@@ -48,7 +48,7 @@ I am planning to take part in some competitions and coding activities. Check out
 - [Twitter](https://twitter.com/aeilot) 
 
 #### 🎩 Dynamic Area
-Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>
 
 ##### ✏️ Blog Posts (zh-CN)
 <!-- blog starts -->
@@ -60,8 +60,6 @@ Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updat
 <!-- blog ends -->
 
 More on [My Blog](https://aeilot.github.io/blog).
-
-![README-Build](https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg)
 
 #### 💾 EOF
 

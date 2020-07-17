@@ -52,11 +52,11 @@ I am planning to take part in some competitions and coding activities. Check out
 
 ##### 👩🏼‍🤝‍🧑🏻 My Organizations
 <!-- org starts -->
-* [Louis Studio](https://api.github.com/orgs/louis-studio)
-* [BOOK-BLOG STUDIO](https://api.github.com/orgs/BOOK-BLOG)
-* [Light Tech](https://api.github.com/orgs/thelighttech)
-* [Bootstrap Chinese Translation](https://api.github.com/orgs/bootstrap-chinese-translation)
-* [Transmister](https://api.github.com/orgs/transmister)
+* [Louis Studio](https://github.com/louis-studio)
+* [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
+* [Light Tech](https://github.com/thelighttech)
+* [Bootstrap Chinese Translation](https://github.com/bootstrap-chinese-translation)
+* [Transmister](https://github.com/transmister)
 
 <!-- org ends -->
 

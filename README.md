@@ -50,6 +50,16 @@ I am planning to take part in some competitions and coding activities. Check out
 #### 🎩 Dynamic Area
 Inspired by [simonwillison.net](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
 
+##### 👩🏼‍🤝‍🧑🏻 My Organizations
+<!-- org starts -->
+* [Louis Studio](https://api.github.com/orgs/louis-studio)
+* [BOOK-BLOG STUDIO](https://api.github.com/orgs/BOOK-BLOG)
+* [Light Tech](https://api.github.com/orgs/thelighttech)
+* [Bootstrap Chinese Translation](https://api.github.com/orgs/bootstrap-chinese-translation)
+* [Transmister](https://api.github.com/orgs/transmister)
+
+<!-- org ends -->
+
 ##### ✏️ Blog Posts (zh-CN)
 <!-- blog starts -->
 * [Linux 中的管道](https://aeilot.github.io/blog/2020/06/19/linux-pipe/) - 2020-06-19

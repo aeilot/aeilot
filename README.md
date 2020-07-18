@@ -60,7 +60,7 @@ I am planning to take part in some competitions and coding activities. Check out
 
 <!-- org ends -->
 
-##### ✏️ Blog Posts (zh-CN)
+##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
 * [Linux 中的管道](https://aeilot.github.io/blog/2020/06/19/linux-pipe/) - 2020-06-19
 * [讲讲博客如何分类](https://aeilot.github.io/blog/2020/06/18/blog-tags-categories/) - 2020-06-17

@@ -18,7 +18,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_github_organizations():
     return_val = ''
-    g = Github("ef31aa8f649ddd5ff6e384c6cee2ecc62715bf32")
+    g = Github("f708e7f79ed49e806fb6011d8f951e828367ff3a")
     for org in g.get_user().get_orgs():
         return_val+="* [" + org.name + "](" + org.html_url + ")" + "\n"
     return return_val

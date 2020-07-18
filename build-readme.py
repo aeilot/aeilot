@@ -1,7 +1,6 @@
 import feedparser
 import os
 from github import Github
-from python_graphql_client import GraphqlClient
 import pathlib
 import re
 

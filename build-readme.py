@@ -22,7 +22,7 @@ def fetch_github_organizations(token):
     return_val = ''
     g = Github(token)
     for org in g.get_user().get_orgs():
-        return_val+="* [" + org.name + "](" + org.html_url + ")" + "\n"
+        return_val+="* [" + str(org.name) + "](" + str(org.html_url) + ")" + "\n"
     return return_val
 
 def fetch_blog_entries():

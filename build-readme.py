@@ -26,7 +26,7 @@ def fetch_github_organizations(token):
     return return_val
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://aeilot.github.io/blog/atom.xml")["entries"]
+    entries = feedparser.parse("https://aeilot.github.io/index.xml")["entries"]
     return [
         {
             "title": entry["title"],

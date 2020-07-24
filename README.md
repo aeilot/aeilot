@@ -63,8 +63,8 @@ I am planning to take part in some competitions and coding activities. Check out
 
 ##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
-* [NextCloud - DIY NAS 解决方案](https://aeilot.github.io/blog/2020/07/23/nextcloud/) - 2020-07-23
-* [sudo shutdown -r now](https://aeilot.github.io/blog/2020/07/22/helloworld/) - 2020-07-22
+* [NextCloud - DIY NAS 解决方案](https://aeilot.gihub.io/2020/07/nextcloud/) - 
+* [sudo shutdown -r now](https://aeilot.gihub.io/2020/07/helloworld/) - Wed, 22 Jul 2020 17:45:09 +0000
 <!-- blog ends -->
 
 More on [My Blog](https://aeilot.github.io/blog).

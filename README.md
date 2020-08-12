@@ -5,12 +5,12 @@
 
 #### A Shorter One
 ```markdown
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Transmister** & **Albumist**
 - 🌱 I’m currently learning **Computer Science**
-- 👯 I’m looking to collaborate on **Great Open Source Projects**
-- 🤔 I’m looking for help with **My Projects**
-- 💬 Ask me about **AE/PR/C4D**, **Coding**, **Photography**, **PC Gaming**
+- 💬 Ask me about **AE/PR/C4D**, **Coding**, **Photography**, **PC Gaming**, **Chinese Literature**
 - 😄 Pronouns: **he/him**
+
+That's it! Simple and Clear!
 ```
 
 #### ℹ️ About
@@ -22,7 +22,7 @@
 
 #### 👨‍💻 Tech Stack
 
-- C/C++
+- C/C++/Qt
 - 🐧 Linux
 - 🍎 Swift/Apple Platforms
 - ☕ Java/Kotlin/Android
@@ -41,11 +41,15 @@ Coding is what I like best. Besides, I have lots of hobbies.
 I am planning to take part in some competitions and coding activities. Check out what I have got!
 
 #### 📫 How to reach me
+- [BiliBili](https://space.bilibili.com/378981479)
 - [E-mail](mailto:louis.aeilot@icloud.com)
 - [GitHub](https://github.com/aeilot)
+- [Patreon](https://www.patreon.com/LouisAeilot)
 - [StackOverflow](https://stackoverflow.com/users/13011108/louis-aeilot)
 - [Telegram](https://t.me/aeilotd)
 - [Twitter](https://twitter.com/aeilot) 
+- [Instagram](https://www.instagram.com/aeilotd)
+
 
 #### 🎩 Dynamic Area
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>

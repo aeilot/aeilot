@@ -65,6 +65,7 @@ I am planning to take part in some competitions and coding activities. Check out
 
 ##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
+* [迟来的日志 - WWDC 2020 奖学金](https://aeilot.github.io/2020/08/wwdc2020/) - Wed, 19 Aug 2020 12:45:09 +0000
 * [vcpkg - 方便的 C/C++ 库管理器](https://aeilot.github.io/2020/08/vcpkg/) - 
 * [vimrc 配置指南](https://aeilot.github.io/2020/07/vimrc/) - Sun, 26 Jul 2020 07:01:09 +0000
 * [NextCloud - DIY NAS 解决方案](https://aeilot.github.io/2020/07/nextcloud/) - 

@@ -7,7 +7,6 @@
 ```markdown
 - 🔭 I’m currently working on **Transmister**
 - 🌱 I’m currently learning **Computer Science**
-- 💬 Ask me about **Design**, **Coding**, **Photography**, **PC Gaming**, **Chinese**, etc.
 - ✉️ Email me for more: **louis.aeilot@icloud.com**
 
 That's it! Simple and Clear!
@@ -35,11 +34,13 @@ Coding is what I like best. Besides, I have lots of hobbies.
 - 🎮 Gaming and Game Development
 - ⏯️ "Filming" on BiliBili and YouTube
 - 📑 Designing
-- ✍️ Literature
+- ✍️ Art
 - etc.
 
 #### 🥇 Awards
 I am planning to take part in some competitions and coding activities. Check out what I have got!
+
+- WWDC Scholarship ==> I am still preparing...
 
 #### 📫 How to reach me
 - [BiliBili](https://space.bilibili.com/378981479)

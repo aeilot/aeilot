@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Louis Aeilot!
 [🌐 Home Page](https://aeilot.github.io) | [🏢 Louis Studio](https://louis-studio.github.io) || [🔽 To the bottom](#-eof) | [🎩 To Dynamic Area](#-dynamic-area) || [✈️ Telegram Channel](https://t.me/aeilot_post)
 
-🏫 Junior High School Student (2018~2022) in China who loves coding
+🏫 Junior High School Student (2018~2022)
 
 #### A Shorter One
 ```markdown

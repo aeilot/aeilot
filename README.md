@@ -15,7 +15,6 @@ That's it! Simple and Clear!
 #### ℹ️ About
 - 🕐 Started to code in **2015** and design in **2017**
 - 💭 Dreaming to change the world
-- ❤️ Loving Open Source and Games
 - 🏳️‍🌈 LGBT Supporter
 - etc.
 
@@ -34,7 +33,7 @@ Coding is what I like best. Besides, I have lots of hobbies.
 - 🎮 Gaming and Game Development
 - ⏯️ "Filming" on BiliBili and YouTube
 - 📑 Designing
-- ✍️ Art
+- 🎨 Art
 - etc.
 
 #### 🥇 Awards

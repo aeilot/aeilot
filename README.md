@@ -5,16 +5,17 @@
 
 #### A Shorter One
 ```markdown
-- 🔭 I’m currently working on **Transmister** & **Albumist**
+- 🔭 I’m currently working on **Transmister**
 - 🌱 I’m currently learning **Computer Science**
-- 💬 Ask me about **AE/PR/C4D**, **Coding**, **Photography**, **PC Gaming**, **Chinese Literature**
+- 💬 Ask me about **Design**, **Coding**, **Photography**, **PC Gaming**, **Chinese**, etc.
 - 😄 Pronouns: **he/him**
+- ✉ Email me for more
 
 That's it! Simple and Clear!
 ```
 
 #### ℹ️ About
-- 🕐 Started to code in **2015**
+- 🕐 Started to code in **2015** and design in **2017**
 - 💭 Dreaming to change the world
 - ❤️ Loving Open Source and Games
 - 🏳️‍🌈 LGBT Supporter
@@ -33,7 +34,8 @@ Coding is what I like best. Besides, I have lots of hobbies.
 
 - 📷 Photography
 - 🎮 Gaming and Game Development
-- ⏯️ Uploading videos to YouTube and BiliBili
+- ⏯️ "Filming" on BiliBili and YouTube
+-  Designing
 - ✍️ Literature
 - etc.
 
@@ -49,7 +51,6 @@ I am planning to take part in some competitions and coding activities. Check out
 - [Telegram](https://t.me/aeilotd)
 - [Twitter](https://twitter.com/aeilot) 
 - [Instagram](https://www.instagram.com/aeilotd)
-
 
 #### 🎩 Dynamic Area
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>

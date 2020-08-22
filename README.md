@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on **Transmister**
 - 🌱 I’m currently learning **Computer Science**
 - 💬 Ask me about **Design**, **Coding**, **Photography**, **PC Gaming**, **Chinese**, etc.
-- 😄 Pronouns: **he/him**
-- ✉ Email me for more
+- ✉️ Email me for more: **louis.aeilot@icloud.com**
 
 That's it! Simple and Clear!
 ```
@@ -35,7 +34,7 @@ Coding is what I like best. Besides, I have lots of hobbies.
 - 📷 Photography
 - 🎮 Gaming and Game Development
 - ⏯️ "Filming" on BiliBili and YouTube
--  Designing
+- 📑 Designing
 - ✍️ Literature
 - etc.
 

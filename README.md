@@ -1,57 +1,7 @@
 ### Hi there 👋 I am Louis Aeilot!
-[🌐 Home Page](https://aeilot.github.io) | [🏢 Louis Studio](https://louis-studio.github.io) || [🔽 To the bottom](#-eof) | [🎩 To Dynamic Area](#-dynamic-area) || [✈️ Telegram Channel](https://t.me/aeilot_post)
+[🌐 Home Page](https://aeilot.github.io) | [🏢 Louis Studio](https://louis-studio.github.io) || [✈️ Telegram Channel](https://t.me/aeilot_post) ｜
+ [ℹ️ About](https://aeilot.github.io/about)
 
-🏫 Junior High School Student (2018~2022)
-
-#### A Shorter One
-```markdown
-- 🔭 I’m currently working on **Transmister**
-- 🌱 I’m currently learning **Computer Science**
-- ✉️ Email me for more: **louis.aeilot@icloud.com**
-
-That's it! Simple and Clear!
-```
-
-#### ℹ️ About
-- 🕐 Started to code in **2015** and design in **2017**
-- 💭 Dreaming to change the world
-- 🏳️‍🌈 LGBT Supporter
-- etc.
-
-#### 👨‍💻 Tech Stack
-
-- C/C++/Qt
-- 🐧 Linux
-- 🍎 Swift/Apple Platforms
-- ☕ Java/Kotlin/Android
-- etc.
-
-#### 😄 Hobbies
-Coding is what I like best. Besides, I have lots of hobbies.
-
-- 📷 Photography
-- 🎮 Gaming and Game Development
-- ⏯️ "Filming" on BiliBili and YouTube
-- 📑 Designing
-- 🎨 Art
-- etc.
-
-#### 🥇 Awards
-I am planning to take part in some competitions and coding activities. Check out what I have got!
-
-- WWDC Scholarship ==> I am still preparing...
-
-#### 📫 How to reach me
-- [BiliBili](https://space.bilibili.com/378981479)
-- [E-mail](mailto:louis.aeilot@icloud.com)
-- [GitHub](https://github.com/aeilot)
-- [Patreon](https://www.patreon.com/LouisAeilot)
-- [StackOverflow](https://stackoverflow.com/users/13011108/louis-aeilot)
-- [Telegram](https://t.me/aeilotd)
-- [Twitter](https://twitter.com/aeilot) 
-- [Instagram](https://www.instagram.com/aeilotd)
-
-#### 🎩 Dynamic Area
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>
 
 ##### 👩🏼‍🤝‍🧑🏻 My Organizations

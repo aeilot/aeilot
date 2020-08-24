@@ -15,11 +15,11 @@
 
 ##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
+* [Swift 中的 SharedPreferance —— UserDefaults](https://aeilot.github.io/2020/08/swift-userdefaults/) - Mon, 24 Aug 2020 06:45:09 +0000
+* [凝视那一轮明月](https://aeilot.github.io/2020/08/stare-at-moon/) - Sun, 23 Aug 2020 06:45:09 +0000
 * [用 GitHub Actions 部署 Hexo 博客](https://aeilot.github.io/2020/08/github-actions/) - Sat, 22 Aug 2020 06:45:09 +0000
 * [迟来的日志 - WWDC 2020 奖学金](https://aeilot.github.io/2020/08/wwdc2020/) - Wed, 19 Aug 2020 12:45:09 +0000
 * [vcpkg - 方便的 C/C++ 库管理器](https://aeilot.github.io/2020/08/vcpkg/) - 
-* [vimrc 配置指南](https://aeilot.github.io/2020/07/vimrc/) - Sun, 26 Jul 2020 07:01:09 +0000
-* [NextCloud - DIY NAS 解决方案](https://aeilot.github.io/2020/07/nextcloud/) - 
 <!-- blog ends -->
 
 More on [My Blog](https://aeilot.github.io/blog).

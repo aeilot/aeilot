@@ -13,8 +13,6 @@
 * [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
 * [Light Tech](https://github.com/thelighttech)
 * [Transmister](https://github.com/transmister)
-* [Bootstrap zh-CN Team](https://github.com/bootstrap-zh-cn)
-* [Techs Docs](https://github.com/techs-docs)
 
 <!-- org ends -->
 

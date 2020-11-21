@@ -4,6 +4,11 @@
 
 ![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
+* ✉️ `louis.aeilot@icloud.com`
+* ✈️ [aeilotd](https://t.me/aeilotd)
+* 🖥 macOS + zsh + Xcode + Vim
+* 🔨 Working on [WidgetHub](https://github.com/aeilot/WidgetHub) and so on.
+
 #### Dynamic Areas
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>
 

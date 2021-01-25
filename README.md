@@ -24,7 +24,11 @@
 
 ##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
-
+* [用简单的物理方法证明牛顿莱布尼茨公式](https://aeilot.github.io/2020/12/25/zh-CN/newton-leibniz-proof/) - 2020-12-24
+* [简评荣耀手环6](https://aeilot.github.io/2020/12/25/zh-CN/honor-band6/) - 2020-12-24
+* [海上生明月，天涯共此时。](https://aeilot.github.io/2020/10/01/zh-CN/mid-autumn-2020/) - 2020-10-01
+* [我为什么重新拿出了 iPod](https://aeilot.github.io/2020/09/11/zh-CN/ipod-shuffle/) - 2020-09-11
+* [Swift 中的 SharedPreferance —— UserDefaults](https://aeilot.github.io/2020/08/24/zh-CN/swift-userdefaults/) - 2020-08-23
 <!-- blog ends -->
 
 More on [My Blog](https://aeilot.github.io/blog).

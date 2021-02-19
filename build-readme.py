@@ -18,13 +18,6 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
-def fetch_github_organizations(token):
-    return_val = ''
-    g = Github(token)
-    for org in g.get_user().get_orgs():
-        return_val+="* [" + str(org.name) + "](" + str(org.html_url) + ")" + "\n"
-    return return_val
-
 def fetch_blog_entries():
     entries = feedparser.parse("https://aeilot.github.io/index.xml")["entries"]
     return [
@@ -44,6 +37,3 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open(encoding='UTF-8').read()
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
-    entries_md = fetch_github_organizations(TOKEN)
-    rewritten = replace_chunk(rewritten, "org", entries_md) 
-    readme.open("w",encoding='UTF-8').write(rewritten)

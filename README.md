@@ -18,16 +18,6 @@ curl https://aeilot.github.io/aeilot/index.html
 #### Dynamic Areas
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/aeilot/aeilot/workflows/README-Build/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired By Simon Willison's Profile</a>
 
-##### 👩🏼‍🤝‍🧑🏻 My Organizations
-<!-- org starts -->
-* [Louis Studio](https://github.com/louis-studio)
-* [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
-* [Light Tech](https://github.com/thelighttech)
-* [Transmister](https://github.com/transmister)
-* [Fiber Search](https://github.com/fiber-search)
-
-<!-- org ends -->
-
 ##### ✏️ Recent Blog Posts (zh-CN)
 <!-- blog starts -->
 * [用简单的物理方法证明牛顿莱布尼茨公式](https://aeilot.github.io/2020/12/25/newton-leibniz-proof/) - 2020-12-24

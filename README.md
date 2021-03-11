@@ -1,11 +1,8 @@
 ### Hi there 👋 I am Louis Aeilot!
-[🌐 Home Page](https://aeilot.github.io) | [🏢 Louis Studio](https://louis-studio.github.io) || [✈️ Telegram Channel](https://t.me/aeilot_post) ｜
- [ℹ️ About](https://aeilot.github.io/about)
 
 ![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
-* ✉️ `louis.aeilot@icloud.com`
-* ✈️ [aeilotd](https://t.me/aeilotd)
+* ✉️ `louisaeilotd@gamil.com`
 * 🖥 macOS + zsh + Xcode + Vim
 * 🏡 Currently on holiday
 <!--* 🔨 Working on [WidgetHub](https://github.com/aeilot/WidgetHub) and so on.-->

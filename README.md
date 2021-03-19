@@ -4,7 +4,7 @@
 
 * ✉️ `louisaeilotd@gamil.com`
 * 🖥 macOS + zsh + Xcode + Vim
-* 🏡 Currently on holiday
+* 🔨 Ready to contribute!
 <!--* 🔨 Working on [WidgetHub](https://github.com/aeilot/WidgetHub) and so on.-->
 
 #### Find me in your terminal

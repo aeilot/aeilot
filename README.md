@@ -2,7 +2,7 @@
 
 ![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
-* ✉️ `louisaeilotd@gamil.com`
+* ✉️ `louisaeilotd@gmail.com`
 * 🖥 macOS + zsh + Xcode + Vim
 * 🔨 Ready to contribute!
 <!--* 🔨 Working on [WidgetHub](https://github.com/aeilot/WidgetHub) and so on.-->

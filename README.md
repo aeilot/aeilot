@@ -10,7 +10,7 @@
 
 #### Find me in your terminal
 ```sh
-curl https://aeilot.github.io/aeilot/index.html
+curl https://aeilot.github.io/aeilot/about.html
 ```
 
 #### Dynamic Areas

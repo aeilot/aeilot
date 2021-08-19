@@ -25,7 +25,7 @@ curl https://aeilot.github.io/aeilot/about.html
 * [Swift 中的 SharedPreferance —— UserDefaults](https://aeilot.github.io/2020/08/24/swift-userdefaults/) - 2020-08-23
 <!-- blog ends -->
 
-More on [My Blog](https://aeilot.github.io/blog).
+More on [My Blog](https://aeilot.top/blog).
 
 #### 💾 EOF
 

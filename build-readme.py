@@ -19,7 +19,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://aeilot.github.io/index.xml")["entries"]
+    entries = feedparser.parse("https://blog.aeilot.top/index.xml")["entries"]
     return [
         {
             "title": entry["title"],

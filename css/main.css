@@ -1,0 +1,109 @@
+@font-face {
+  font-family: Zpix;
+  src: url("/font/zpix.ttf");
+}
+
+html,
+body,
+pre,
+code,
+kbd,
+samp {
+  font-family: "Zpix";
+}
+
+.container {
+  max-width: 640px;
+  margin: 36px auto;
+  user-select: none;
+}
+
+.container>.hero,
+.container>.section-title,
+.container>footer {
+  margin: 0 20px;
+}
+
+.container>.hero {
+  margin-top: 36px;
+  padding: 96px 0;
+}
+
+.container>.hero>h3 {
+  font-size: 24px;
+}
+
+.container>.hero>h1 {
+  font-size: 56px;
+}
+
+.container>.hero>p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+footer a,
+li a {
+  text-decoration: none;
+  color: #333;
+}
+
+main {
+  margin-bottom: 20px;
+}
+
+.topic {
+  margin-bottom: 3rem;
+}
+
+/* Copyright (c) 2013 The Chromium Authors. All rights reserved. */
+._dialog_overlay,
+dialog+.backdrop {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  position: fixed
+}
+
+dialog {
+  position: absolute;
+  right: 0;
+  left: 0;
+  display: block;
+  width: -moz-fit-content;
+  width: -webkit-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: -webkit-fit-content;
+  height: fit-content;
+  padding: 1em;
+  margin: auto;
+  color: #000;
+  background: #fff;
+  border: solid
+}
+
+dialog:not([open]) {
+  display: none
+}
+
+dialog+.backdrop {
+  top: 0;
+  background: rgba(0, 0, 0, .1)
+}
+
+._dialog_overlay {
+  top: 0
+}
+
+dialog.fixed {
+  position: fixed;
+  top: 50%;
+  transform: translate(0, -50%)
+}

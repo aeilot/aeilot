@@ -24,4 +24,6 @@ I'm willing to make friends from home and abroad. Here's my [email](mailto:louis
 
 In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16.
 
+---
+
 ###### 🌟 That's it!

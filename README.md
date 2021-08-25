@@ -13,9 +13,77 @@
 ## My Week
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 175 Contributions in the Year 2021
+ > 
+> 📦 55.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
+🌆 Daytime    111 commits    ██████████░░░░░░░░░░░░░░░   40.07% 
+🌃 Evening    125 commits    ███████████░░░░░░░░░░░░░░   45.13% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.83% 
+Thursday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Saturday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   23.83% 
+Sunday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Swift** 
+
+```text
+Swift                    7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aeilot/aeilot/master/charts/bar_graph.png) 
+
+
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
 
 ## More Detailed

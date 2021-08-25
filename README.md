@@ -10,6 +10,11 @@
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
 
+## My Week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## More Detailed
   
 I am a 14y/o student who code by avocation from China. I write mainly C++, partly Swift and Python, and Java while needed.

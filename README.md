@@ -6,7 +6,7 @@
 * 🖥 macOS + zsh + Xcode + Vim + FiraCode
 * 🔨 Ready to contribute with C++/Swift/Java/Python!
 * 📷 Instagram `louisaeilot`
-* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
+* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
 

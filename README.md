@@ -3,8 +3,8 @@
 ![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
 * ✉️ `louis.aeilot@icloud.com`
-* 🖥 macOS + zsh + Xcode + Vim + FiraCode
-* 🔨 Ready to contribute with C++/Swift/Java/Python!
+* 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
+* 🔨 Ready to contribute with C++/C/Java/Python!
 * 📷 Instagram `louisaeilot`
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)

@@ -82,7 +82,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
  
  </details>
 
-## More Detailed
+#### More Detailed
   
 I am a 14y/o student who code by avocation from China. I write mainly C++, partly Swift and Python, and Java while needed.
 

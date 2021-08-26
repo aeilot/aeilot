@@ -10,8 +10,9 @@
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
 
-## My Week
-
+<details>
+ <summary>My Code Stats</summary>
+ 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -85,6 +86,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
+ 
+ </details>
 
 ## More Detailed
   

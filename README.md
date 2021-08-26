@@ -11,11 +11,11 @@
 * 🔨 Working on Nothing because of schoolwork.
 
 <details>
- <summary>My Code Stats</summary>
- 
+<summary>📊 My Code Stats</summary>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
+ 
 **🐱 My Github Data** 
 
 > 🏆 175 Contributions in the Year 2021

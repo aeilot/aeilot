@@ -43,13 +43,13 @@ Sunday       50 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -70,7 +70,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aeilot/aeilot/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
  
  </details>

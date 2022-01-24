@@ -77,7 +77,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 #### More Detailed
   
-I am a 14y/o student who code by avocation from China. I write mainly C++, partly Swift and Python, and Java while needed.
+I am a student who codes by avocation from China. I write mainly C++, partly Swift and Python, and Java while needed.
 
 I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas waiting to be realized. I play an active part in many Open Source repositories, especially those belong to my friend [@MrWillCom](https://github.com/MrWillCom).
 
@@ -87,7 +87,7 @@ At my leisure, I love filming and taking photos. Follow my [Instagram](https://w
 
 I'm willing to make friends from home and abroad. Here's my [email](mailto:louis.aeilot@icloud.com), my [Telegram](https://t.me/aeilotd) and my [Twitter](https://twitter.com/aeilot)
 
-In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16.
+<!-- In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16. -->
 
 ---
 

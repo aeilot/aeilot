@@ -1,6 +1,6 @@
-### Hi there 👋 I am Louis Aeilot!
+### Hi there 👋 I am Louis(a) Aeilot!
 
-![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
+![Louis(a) Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
 * ✉️ `louis.aeilot@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode

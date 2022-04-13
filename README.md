@@ -9,7 +9,7 @@
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
-* 👱‍♀️ Pronoun: She/He
+* 👱‍♀️ Pronoun: Her
 
 <details>
 <summary>📊 My Code Stats</summary>

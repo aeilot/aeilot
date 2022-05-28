@@ -9,9 +9,6 @@
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot) And <a rel="me" href="https://noc.social/@aeilot">🦣 Mastodon</a>
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
-* Pronoun: Her
-* Support 🏳️‍🌈 & 🏳️‍⚧️
-* 💰 Sponsor me by `ETH`: `0x4853dE1abA51D570Af43EBcB31046ebF695C89A0`
 <!-- * 👱‍♀️ Pronoun: Her -->
 
 <details>

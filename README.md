@@ -1,15 +1,15 @@
-### Hi there 👋 I am Louis Aeilot!
+### Hi there 👋 I am Louisa Aeilot!
 
-![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
+![Louisa Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
 * ✉️ `louis.aeilot@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
-* 📷 Instagram `louisaeilot`
-* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot) And <a rel="me" href="https://noc.social/@aeilot">🦣 Mastodon</a>
+* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
-<!-- * 👱‍♀️ Pronoun: Her -->
+* 👱‍♀️ Pronoun: Her
+* 😺 Fun Fact: Louis(a)Aeilot ==> LouisAeilot lol
 
 <details>
 <summary>📊 My Code Stats</summary>
@@ -84,7 +84,7 @@ I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNo
 
 I have participated in WWDC Scholarship twice (both failed though), and will try harder in the future. Also, I have taken part in several contests in Programming, such as NOIP (National Olympiad in Informatics in Provinces), and got prizes. [Here](https://github.com/aeilot/ProblemSet)'s where I practice.
 
-At my leisure, I love filming and taking photos. Follow my [Instagram](https://www.instagram.com/louisaeilot/), [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more.
+At my leisure, I love filming and taking photos. Follow my [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more.
 
 I'm willing to make friends from home and abroad. Here's my [email](mailto:louis.aeilot@icloud.com), my [Telegram](https://t.me/aeilotd) and my [Twitter](https://twitter.com/aeilot)
 

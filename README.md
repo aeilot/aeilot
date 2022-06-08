@@ -9,6 +9,7 @@
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 * 🔨 Working on Nothing because of schoolwork.
 * 👱‍♀️ Pronoun: Her
+* 🏳️‍🌈 🏳️‍⚧️ Supporting LGBT
 * 😺 Fun Fact: Louis(a)Aeilot ==> LouisAeilot lol
 
 <details>

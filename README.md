@@ -1,15 +1,13 @@
-### Hi there 👋 I am Louisa Aeilot!
+### Hi there 👋 I am Louis Aeilot!
 
-![Louisa Aeilot's github stats]( https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
+![Louis Aeilot's github stats]( https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
 * ✉️ `louis.aeilot@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
-* 🔨 Working on Nothing because of schoolwork.
 * 🏳️‍🌈 🏳️‍⚧️ Supporting LGBT
-* 😺 Fun Fact: Louis(a)Aeilot ==> LouisAeilot lol
 
 <details>
 <summary>📊 My Code Stats</summary>

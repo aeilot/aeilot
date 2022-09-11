@@ -7,7 +7,6 @@
 * 🔨 Ready to contribute with C++/C/Java/Python!
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
-* 🏳️‍🌈 🏳️‍⚧️ Supporting LGBT
 
 <details>
 <summary>📊 My Code Stats</summary>

@@ -2,7 +2,7 @@
 
 ![Louisa Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
-* ✉️ `louis.aeilot@icloud.com`
+* ✉️ `louisaeilotd@gmail.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
 * 🏳️‍🌈 🏳️‍⚧️ Supporting Worldwide LGBT & Transgender Movements

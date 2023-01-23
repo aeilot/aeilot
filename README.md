@@ -85,7 +85,7 @@ I have participated in WWDC Scholarship twice (both failed though), and will try
 
 At my leisure, I love filming and taking photos. Follow my [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more. I've been exploring the use of stream of consciousness in movies.
 
-I'm willing to make friends from home and abroad. Here's my [email address](mailto:louis.aeilot@icloud.com), [Telegram](https://t.me/aeilotd) and  [Twitter](https://twitter.com/aeilot).
+I'm willing to make friends from home and abroad. Here's my [email address](mailto:louis.aeilot@icloud.com), [Telegram](https://t.me/aeilotd), [Mastodon](https://mstdn.social/@aeilot) and  [Twitter](https://twitter.com/aeilot).
 
 <!-- In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16. -->
 

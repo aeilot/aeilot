@@ -77,15 +77,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 #### More Detailed
   
-I am a student who codes by avocation from China. I write mainly C++, partly Swift and Python, and Java while needed.
+I am a student who codes by avocation. I write mainly C++, partly Swift and Python, and Java while needed.
 
-I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas waiting to be realized. I play an active part in many Open Source repositories, especially those belong to my friend [@MrWillCom](https://github.com/MrWillCom).
+I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas to be realized. I play an active part in many Open Source repositories, especially those belonging to my friend [@MrWillCom](https://github.com/MrWillCom) and [@CLCK0622](https://github.com/CLCK0622).
 
 I have participated in WWDC Scholarship twice (both failed though), and will try harder in the future. Also, I have taken part in several contests in Programming, such as NOIP (National Olympiad in Informatics in Provinces), and got prizes. [Here](https://github.com/aeilot/ProblemSet)'s where I practice.
 
-At my leisure, I love filming and taking photos. Follow my [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more.
+At my leisure, I love filming and taking photos. Follow my [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more. I've been exploring the use of stream of consciousness in movies.
 
-I'm willing to make friends from home and abroad. Here's my [email](mailto:louis.aeilot@icloud.com), my [Telegram](https://t.me/aeilotd) and my [Twitter](https://twitter.com/aeilot)
+I'm willing to make friends from home and abroad. Here's my [email address](mailto:louis.aeilot@icloud.com), [Telegram](https://t.me/aeilotd) and  [Twitter](https://twitter.com/aeilot).
 
 <!-- In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16. -->
 

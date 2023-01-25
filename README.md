@@ -1,6 +1,6 @@
-### Hi there 👋 I am 满五 Aeilot!
+### Hi there 👋 I am Louisa Aeilot!
 
-![满五 Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
+![Louisa Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
 * ✉️ `louis.aeilot@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode

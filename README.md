@@ -5,7 +5,7 @@
 * ✉️ `louis.aeilot@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
-* 🏳️‍🌈 Supporting LGBT | Non-binary
+* 🏳️‍🌈 Supporting LGBT | 🏳️‍⚧️ Non-binary
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) ✈️ [Telegram](https://t.me/aeilotd) 🏠 [Home Page](https://www.aeilot.top) 🐦 [Twitter](https://twitter.com/aeilot) 🦣 [Mastodon](https://mstdn.social/@aeilot) 👩‍💻 [DEV Community](https://dev.to/aeilot)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 

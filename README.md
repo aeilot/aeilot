@@ -78,7 +78,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
   
 I am a student who codes by avocation. I write mainly C++, partly Swift and Python, and Java while needed.
 
-I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas to be realized. I play an active part in many Open Source repositories, especially those belonging to my friend [@MrWillCom](https://github.com/MrWillCom) and [@CLCK0622](https://github.com/CLCK0622).
+I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas to be realized. I play an active part in many Open Source repositories, especially those belonging to [@MrWillCom](https://github.com/MrWillCom) and [@CLCK0622](https://github.com/CLCK0622).
 
 I have participated in WWDC Scholarship twice (both failed though), and will try harder in the future. Also, I have taken part in several contests in Programming, such as NOIP (National Olympiad in Informatics in Provinces), and got prizes. [Here](https://github.com/aeilot/ProblemSet)'s where I practice.
 

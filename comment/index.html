@@ -1,0 +1,76 @@
+<html lang="zh-cn">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>满五</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/main.css">
+    <style>
+        @font-face {
+            font-family: Zpix;
+            src: url("./font/zpix.ttf");
+        }
+
+        @font-face {
+            font-family: ZpixOnline;
+            src: url(https://zpix.now.sh/zpix.woff2);
+        }
+
+        * {
+            font-family: Zpix, ZpixOnline, sans-serif;
+        }
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138571809-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-138571809-3');
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+    />
+</head>
+
+<body>
+    <div class="container">
+        <div class="hero">
+            <h3>Hello, there!</h3>
+            <h1>满五的评论页</h1>
+            <p>Made with Vercel + Waline.js</p>
+<!--   I guess you've found something.                                                                      -->
+<!--   Check https://opensource.facebook.com/support-ukraine !!! Help Provide Humanitarian Aid to Ukraine!!!-->
+        </div>
+        <main>
+            <section class="topic">
+                <h2 id="contact"><a href="#contact">#</a>Comment Here</h2>
+                <div id="waline"></div>
+            </section>
+        </main>
+        <footer>
+            <p>
+                ©2021 满五 使用
+                <a href="https://github.com/nostalgic-css/NES.css">NES.css</a>
+                和
+                <a href="https://github.com/SolidZORO/zpix-pixel-font">Zpix 字体</a>
+                制作
+            </p>
+        </footer>
+    </div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+  
+      init({
+        el: '#waline',
+        serverURL: 'https://comments.aeilot.top/',
+      });
+    </script>
+</body>
+
+</html>

@@ -1,11 +1,11 @@
-### Hi there 👋 I am Louis Aeilot!
+### Hi there 👋 I am Chenluo Deng!
 
 ![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
 
-* ✉️ `louis.aeilot@icloud.com`
+* ✉️ `louisaeilotd@icloud.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
-* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) 🏠 [Home Page](https://www.aeilot.top) 📷 [Instagram](https://instagram.com/aeilotd) 🦣 [Mastodon](https://mstdn.social/@aeilot) 📷 [Unsplash](https://unsplash.com/@aeilotd) 🤖 [Reddit](https://www.reddit.com/user/aeilotd)
+* 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) 🏠 [Home Page](https://www.aeilot.top) 📷 [Instagram](https://instagram.com/aeilotd)  📷 [Unsplash](https://unsplash.com/@aeilotd) 🤖 [Reddit](https://www.reddit.com/user/aeilotd)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 
 <details>
@@ -72,21 +72,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
  
  </details>
-
-#### More Detailed
-  
-I am a student who codes by avocation. I write mainly C++, partly Swift and Python, and Java while needed.
-
-I made innovative projects, like [Daily Notes](https://github.com/aeilot/DailyNotes), and I have a great many ideas to be realized. I play an active part in many Open Source repositories, especially those belonging to [@MrWillCom](https://github.com/MrWillCom) and [@CLCK0622](https://github.com/CLCK0622).
-
-I have participated in WWDC Scholarship twice (both failed though), and will try harder in the future. Also, I have taken part in several contests in Programming, such as NOIP (National Olympiad in Informatics in Provinces), and got prizes. [Here](https://github.com/aeilot/ProblemSet)'s where I practice.
-
-At my leisure, I love filming and taking photos. Follow my [YouTube (NOT AVAILABLE)](#notavailable) and [BiliBili](https://space.bilibili.com/378981479) for more. I've been exploring the use of stream of consciousness in movies.
-
-I'm willing to make friends from home and abroad. Here's my [email address](mailto:louis.aeilot@icloud.com), [Telegram](https://t.me/aeilotd), [Mastodon](https://mstdn.social/@aeilot), [Unsplash](https://unsplash.com/@aeilotd) and  [Instagram](https://instagram.com/aeilotd).
-
-<!-- In the end, I'm proud to introduce my elder sister [@QD-lazy-tm](https://github.com/QD-lazy-tm) who is 16. -->
-
+ 
 ---
 
 ###### 🌟 That's it!

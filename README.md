@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Louis Deng!
 
-![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)
+<!--![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)-->
 
 * ✉️ `louisaeilotd@gmail.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode

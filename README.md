@@ -6,7 +6,7 @@
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Java/Python!
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) 🏠 [Home Page](https://www.aeilot.top) 📷 [Instagram](https://instagram.com/aeilotd)  📷 [Unsplash](https://unsplash.com/@aeilotd) 🤖 [Reddit](https://www.reddit.com/user/aeilotd)
-* 💲 ![Ethereum](https://img.shields.io/badge/Ethereum-0x0486D586f5EB3Ca65A7F45d379aE83b7B7DA3084.svg?logo=ethereum&logoColor=white)
+* 💲 ![Ethereum](https://img.shields.io/badge/Ethereum-0x0486D586f5EB3Ca65A7F45d379aE83b7B7DA3084-purple.svg?logo=ethereum&logoColor=white)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/aeilot/)
 
 <details>

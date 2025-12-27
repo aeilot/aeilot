@@ -2,7 +2,7 @@
 
 <!--![Louis Aeilot's github stats](https://github-readme-stats.vercel.app/api?username=aeilot&theme=buefy&count_private=true&show_icons=true)-->
 
-* ✉️ `louisaeilotd@gmail.com`
+* ✉️ `louis.chenluodeng@gmail.com`
 * 🖥 macOS + zsh + <...> + Vim Keybinding + FiraCode
 * 🔨 Ready to contribute with C++/C/Swift/Java/Python!
 * 📝 [Blog](https://blog.aeilot.top) and [EN Ver.](https://en.blog.aeilot.top) 🏠 [Home Page](https://www.aeilot.top) 📷 [Instagram](https://instagram.com/aeilotd)  📷 [Unsplash](https://unsplash.com/@aeilotd) 🤖 [Reddit](https://www.reddit.com/user/aeilotd)

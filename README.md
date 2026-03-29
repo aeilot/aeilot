@@ -11,63 +11,14 @@
 <summary>📊 My Code Stats</summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-🌆 Daytime    110 commits    █████████░░░░░░░░░░░░░░░░   38.33% 
-🌃 Evening    128 commits    ███████████░░░░░░░░░░░░░░   44.6% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
-Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-Saturday     69 commits     ██████░░░░░░░░░░░░░░░░░░░   24.04% 
-Sunday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.42%
-
+```txt
+C++      1 hr                  ████████████▓░░░░░░░░░░░░   50.29 %
+Python   43 mins               █████████░░░░░░░░░░░░░░░░   36.48 %
+C        13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+YAML     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 28 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aeilot/aeilot/master/charts/bar_graph.png) 
-
-
- Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
  
  </details>
